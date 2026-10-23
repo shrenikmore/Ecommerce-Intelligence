@@ -54,3 +54,14 @@ These results highlight the trade-off between identifying cancelled orders and g
 **Shrenik More**
 
 Data Analytics | Data Science | Machine Learning | Power BI
+## 📊 Power BI Dashboard Preview
+
+### Page 1 — Overview
+![Dashboard Page 1](dashboard-page-1.png)
+
+### Page 2 — Sales & Performance
+![Dashboard Page 2](dashboard-page-2.png)
+
+### Page 3 — Analytics
+![Dashboard Page 3](dashboard-page-3.png)
+
